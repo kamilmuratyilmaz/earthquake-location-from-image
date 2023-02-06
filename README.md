@@ -1,4 +1,4 @@
-## Hello, the idea for creating this repo has come into my mind after the tragic earthquakes in Turkey.
+## Idea for creating this repo has come into my mind after the tragic earthquakes in Turkey.
 
 While I was browsing Twitter, I saw many people sharing only photos and address information of people under the rubble. In response to this, I thought about how I could quickly extract latitude and longtitude data from the URL addresses of the photos and prepared useful data to act quickly for the people whom need help.
 

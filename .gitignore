@@ -1,0 +1,13 @@
+# Ignore all .pyc files
+__pycache__
+
+
+# Ignore IDE related files
+.idea
+
+# Ignore virtualenv
+venv
+
+
+# Ignore Credential Files
+credentials.json

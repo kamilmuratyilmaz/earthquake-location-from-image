@@ -7,3 +7,5 @@ Simply, the photo first passes through the Google Vision API and the incoming te
 To run the program, you must first fill in the required fields in the .env. Since I cannot afford it financially, I can only write the script, if you can contribute to this issue, please use this script.
 
 You can install gunicorn as a WSGI server to host the program in linux environment, it is available in requirements.txt.
+
+<img src = "https://github.com/kamilmuratyilmaz/earthquake-location-from-image/blob/production/Postman%20Example.png" alt="Postman Example">

@@ -20,4 +20,6 @@ def detect_text_uri(uri):
             '{}\nFor more info on error messages, check: '
             'https://cloud.google.com/apis/design/errors'.format(
                 response.error.message))
-    return texts[0].description
+    detected_text = " ".join(texts[0].description.splitlines())
+    print(detected_text)
+    return detected_text
